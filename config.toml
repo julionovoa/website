@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Julio Novoa"
-theme = "hugo-lithium-theme"
+theme = "ghostwriter"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
