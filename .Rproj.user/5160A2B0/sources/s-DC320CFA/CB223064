@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4279641884",
+    "hash" : "3315824987",
     "id" : "CB223064",
-    "lastKnownWriteTime" : 1507316534,
-    "last_content_update" : 1507316534,
+    "lastKnownWriteTime" : 1507318614,
+    "last_content_update" : 1507318614806,
     "path" : "~/OneDrive/Documents/personal-website/content/post/2015-07-23-r-rmarkdown.Rmd",
     "project_path" : "content/post/2015-07-23-r-rmarkdown.Rmd",
     "properties" : {
+        "cursorPosition" : "3,16",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,

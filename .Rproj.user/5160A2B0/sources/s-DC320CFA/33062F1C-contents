@@ -8,13 +8,13 @@ PygmentsCodeFences = true
 canonifyurls = true
 
 # Disqus Username
-disqusShortname = "disqus_shortname"
+# disqusShortname = "disqus_shortname"
 
 # Google Analytics UA number
-googleAnalytics = "UA-XXXXXXXX-X"
+# googleAnalytics = "UA-XXXXXXXX-X"
 
 # Copyright of your post
-copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
+# copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
@@ -34,7 +34,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   author = "Julio Novoa"
   avatar = "/img/avatar.jpg"
   seotitle = "Geospatial Data Analytics"
-  subtitle = "-- geospatial data analysis using Python and R --"
+  subtitle = "Geospatial Data Analysis, Python, R"
   description = "personal website"
   paginate = 10
 
@@ -60,17 +60,17 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   # bilibili = "bilibili_id_number"
 
   # Changyan Comments (China Only)
-  changyan = false
-  changyanId = "cyt3toRiB"
-  changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
+  # changyan = false
+  # changyanId = "cyt3toRiB"
+  # changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
 
   # Google Webmaster
   # https://www.google.com/webmasters/
-  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
+  # googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
 
   # Bing Webmaster
   # https://www.bing.com/toolbox/webmaster/
-  msValidate = "22596E34341DD1D17D6022C44647E587"
+  # msValidate = "22596E34341DD1D17D6022C44647E587"
 
   # Baidu Webmaster (China Only)
   # https://zhanzhang.baidu.com/

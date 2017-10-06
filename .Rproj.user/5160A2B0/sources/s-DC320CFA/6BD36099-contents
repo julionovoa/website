@@ -1,0 +1,30 @@
+---
+title: "Calculating the distance from points to polygons using Spatialite"
+author: "Julio Novoa"
+date: '2017-10-06'
+slug: calculating-the-distance-from-points-to-polygons-using-spatialite
+tags:
+- SQL
+- Spatialite
+categories: Spatialite
+---
+
+If you want to calculate the distance from a point to the edge of its closest polygon, and you don’t have an Advanced license of ArcGIS, you can use Spatialite to do it.
+
+Some R code here: 
+```{r}
+library(RSQLite)
+db <- dbConnect(RSQLite::SQLite(), dbname = "sql.sqlite")
+```
+Some SQL code here:
+```{sql connection=db}
+CREATE VIEW near_analysis AS
+SELECT s.fid s_fid, i.fid i_fid, MIN(ST_DISTANCE(s.geometry, i.geometry)) distance
+FROM sampling_points s, island i
+GROUP BY s_fid
+```
+Some Python code here:
+```{python, engine.path="/Users/me/anaconda/bin/python"}
+import sys
+print sys.version
+```
