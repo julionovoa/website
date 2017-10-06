@@ -25,7 +25,7 @@ author = "Julio Novoa"
 intro = "Geospatial Data Analytics, Python, R"
 description = "Currently working at [LGL Limited](http://lgl.com), British Columbia, Canada"
 authorimage = "headshot.jpg"
-dateformat = "2006-12-31"
+dateFormat = "2006-JAN-02"
 
 ## Site Meta Settings
 [params.meta]
