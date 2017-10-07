@@ -29,8 +29,8 @@ dateFormat = "2006-JAN-02"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Julio Novoa's Website"
+keywords = "blog, julionovoa, geospatial, gis, remote sensing"
 
 ## Social Accounts
 [params.social]
