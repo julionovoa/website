@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Julio Novoa</title>
-    <link>https://julionovoa.com/tags/</link>
+    <link>https://www.julionovoa.com/tags/</link>
     <description>Recent content in Tags on Julio Novoa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://julionovoa.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.julionovoa.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://julionovoa.com/tags/about/</link>
+      <link>https://www.julionovoa.com/tags/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://julionovoa.com/tags/about/</guid>
+      <guid>https://www.julionovoa.com/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aviato</title>
-      <link>https://julionovoa.com/tags/aviato/</link>
+      <link>https://www.julionovoa.com/tags/aviato/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://julionovoa.com/tags/aviato/</guid>
+      <guid>https://www.julionovoa.com/tags/aviato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bachman</title>
-      <link>https://julionovoa.com/tags/bachman/</link>
+      <link>https://www.julionovoa.com/tags/bachman/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://julionovoa.com/tags/bachman/</guid>
+      <guid>https://www.julionovoa.com/tags/bachman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pied Piper</title>
-      <link>https://julionovoa.com/tags/pied-piper/</link>
+      <link>https://www.julionovoa.com/tags/pied-piper/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://julionovoa.com/tags/pied-piper/</guid>
+      <guid>https://www.julionovoa.com/tags/pied-piper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>https://julionovoa.com/tags/plot/</link>
+      <link>https://www.julionovoa.com/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://julionovoa.com/tags/plot/</guid>
+      <guid>https://www.julionovoa.com/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://julionovoa.com/tags/r-markdown/</link>
+      <link>https://www.julionovoa.com/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://julionovoa.com/tags/r-markdown/</guid>
+      <guid>https://www.julionovoa.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>https://julionovoa.com/tags/regression/</link>
+      <link>https://www.julionovoa.com/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://julionovoa.com/tags/regression/</guid>
+      <guid>https://www.julionovoa.com/tags/regression/</guid>
       <description></description>
     </item>
     
