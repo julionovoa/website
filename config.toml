@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://www.julionovoa.com"
+baseurl = "https://julionovoa.com"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -8,6 +8,7 @@ languageCode = "en-US"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 author = "Julio Novoa"
 title = "Julio Novoa"
@@ -30,14 +31,14 @@ dateFormat = "2006-JAN-02"
 ## Site Meta Settings
 [params.meta]
 description = "Julio Novoa's Website"
-keywords = "blog, julionovoa, geospatial, gis, remote sensing"
+keywords = "blog, julionovoa, geospatial, gis, remote sensing, python, rstats"
 
 ## Social Accounts
 [params.social]
 # github = "<username>"
 # instagram = "<username>"
 linkedin = "julionovoa"
-twitter = "_julionovoa"
+twitter = "JulioPNovoa"
 # facebook = "<username>"
 # google = "<username>"
 # stackoverflow = "<username>"
@@ -45,7 +46,7 @@ email = "contact@julionovoa.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2017. Julio Novoa. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2018. Julio Novoa. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = false
 highlightjs = true
 
